@@ -1,4 +1,4 @@
-# HASBRAIN
+# HASBRAIN - Towards Learning-Based Optimal HAS
 
 This repository contains the supplemental material to the paper *Towards Machine Learning-Based Optimal HAS* ([[paper]](https://arxiv.org/abs/1808.08065)). 
 In the paper we train machine-learning models for the adaptation of quality in HTTP Adaptive Streaming (HAS) based on the theoretical optimal decisions. 
