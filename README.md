@@ -4,9 +4,9 @@ This repository contains the supplemental material to the paper *Towards Machine
 In the paper we train machine-learning models for the adaptation of quality in HTTP Adaptive Streaming (HAS) based on the theoretical optimal decisions. 
 The trained models are compared against the optimal decisions and two state-of-the-art algorithms in an simulation environment.
 
-## Repository Content
+## Links & Repository Content
 
-  * Simulation environment with trained ANN (will come soon)
+  * Simulation environment with trained ANN: https://github.com/csieber/pydashsim
   * Matlab & Gurobi code for optimization (please write c.sieber@tum.de for this)
 
 ## Related Publications
