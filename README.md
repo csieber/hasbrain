@@ -9,6 +9,12 @@ The trained models are compared against the optimal decisions and two state-of-t
   * Simulation environment with trained ANN: https://github.com/csieber/pydashsim
   * Matlab & Gurobi code for optimization (please write c.sieber@tum.de for this)
 
+## Datasets
+
+| File                   | Description                         | Example Notebook                           |
+|------------------------|-------------------------------------|--------------------------------------------|
+| datasets/results.csv   | Results from the HASBRAIN paper.    | [results.ipynb](datasets/results.ipynb)    |
+
 ## Related Publications
 
 *Keep Calm and Don't Switch: About the Relationship Between Switches and Quality in HAS*, Christian Moldovan, Korbinian Hagn, Christian Sieber, Wolfgang Kellerer, Tobias Hoßfeld, pubished at the Modeling Communication Networks workshop at the International Teletraffic Congress (ITC 2017), September, 2017, Genoa, Italy. Link: https://github.com/csieber/alpha-dataset
